@@ -1,2 +1,2 @@
-# DownloadIt form HostYourFiles
+# DownloadIt from HostYourFiles
 by pabdani
